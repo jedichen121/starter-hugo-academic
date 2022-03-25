@@ -89,3 +89,16 @@ Please follow the guide [here](https://wowchemy.com/docs/getting-started/customi
 
 ## Use Custom domain
 
+### Apply for a domain
+
+You can apply for a domain in website like https://domains.google/ or https://www.godaddy.com/.
+
+### Verify domain with Github
+
+Follow this [guide](https://thecesrom.dev/2020/10/14/how-to-verify-your-github-organization-s-domain-on-google-domains/) for verifying the domain with Github. It might take a day.
+
+### Set up custom domain for the repository
+
+Follow this [guide](https://dev.to/trentyang/how-to-setup-google-domain-for-github-pages-1p58) for how to setup Google domain with github pages.
+
+After it's done, don't forget to change the `baseURL` to the new domain address. 
