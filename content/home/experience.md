@@ -22,28 +22,50 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Senior digital Design Engineer
+    company: Infineon
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: Infineon-Logo
+    location: Munich, Bavaria, Germany
+    date_start: '2020-04-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+
+
+  - title: Digital Design Engineer
+    company: Infineon
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: Infineon-Logo
+    location: Munich, Bavaria, Germany
+    date_start: '2018-05-01'
+    date_end: '2020-03-01'
+    description: |2-
+        Develop digital functional blocks for all kinds of IP categories (communication, safety, control etc.).
+        
+        Apply Requirement Driven Development Flow (RDDF) for IP and SoC development.
+
+        Contribute to IP Reuse strategy and IP Roadmap activities. Continuously maintain and advance IP portfolio.
+        
+        Support 3rd Party IP provisioning and integration on product level.
+
+        Work for development projects with different Infineon’s business lines. 
+
+        Develop and spread innovative and efficient methodologies for IP development and integration based on internal and external tools.
+
+        Work together with concept, verification, DFT and SoC integration engineers.
+
+
+  - title: Intership Student
+    company: Infineon Technologies
+    company_url: ''
+    company_logo: Infineon-Logo
+    location: Munich, Bavaria, Germany
+    date_start: '2017-10-01'
+    date_end: '2018-03-01'
+    description: |2-
+        Worked with the team of experienced SoC design and verification engineers on functional verification tasks. 
+
+
+        Provided support of SystemVerilog assertion creations for formal verification in on-going projects.
 
 design:
   columns: '2'
