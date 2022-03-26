@@ -69,6 +69,23 @@ email: ""
 highlight_name: true
 ---
 
-As a birthday gift from Jiyang Chen. 
+:birthday::birthday::birthday::birthday::birthday::birthday::birthday:
+:birthday::birthday::birthday::birthday::birthday::birthday::birthday:
+:birthday::birthday::birthday::birthday::birthday::birthday::birthday:
+:birthday::birthday::birthday::birthday::birthday::birthday::birthday:
+:birthday::birthday:
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+<p style="text-align: center;"> <h1 style="font-size:6vw">Happy Birthday Yifang!</h1> </p>
+
+
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+:birthday::birthday::birthday::birthday::birthday::birthday::birthday:
+:birthday::birthday::birthday::birthday::birthday::birthday::birthday:
+:birthday::birthday::birthday::birthday::birthday::birthday::birthday:
+:birthday::birthday::birthday::birthday::birthday::birthday::birthday:
+:birthday::birthday:
+
+
+This website is a birthday gift for Yifang from Jiyang, and is bundled with 3 months of technical support.👋 😊
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
